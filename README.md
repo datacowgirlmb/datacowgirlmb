@@ -5,8 +5,7 @@ Hi! I'm @DataCowgirlMB. :wave:
 - :exclamation: I am a Certified Scrum Master!
 - :zap: I have experience in:
   - SQL querying, data optimatization, & server administration (Microsoft SQL Server)
-  - VBA
-  - Microsoft Access
+  - Microsoft Access, including VBA
   - Microsoft Excel
   - PowerShell
   - HTML
